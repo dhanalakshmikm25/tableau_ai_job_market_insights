@@ -51,7 +51,7 @@ It visualizes how industries and roles vary by **salary potential, automation vu
 | File | Description |
 |------|--------------|
 | `project.twb` | Tableau workbook |
-| `59e4578a-173e-4440-9eb9-a1cd3ae7c3e7.png` | Dashboard screenshot |
+| `tableau_ai_job_market_insights.png` | Dashboard screenshot |
 
 ---
 
