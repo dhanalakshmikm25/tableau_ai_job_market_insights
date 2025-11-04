@@ -1,7 +1,6 @@
 # Where Should You Focus Your Career in the Age of AI?
 
 **Author:** Dhanalakshmi Kannur Munirathnam  
-**Course:** BIS 582 – Data Visualization (Central Michigan University)  
 **Tool:** Tableau  
 **Dataset:** Combined datasets on job salaries, automation risk, and AI adoption rates  
 
