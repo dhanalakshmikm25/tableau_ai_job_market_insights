@@ -43,7 +43,7 @@ It visualizes how industries and roles vary by **salary potential, automation vu
 ---
 
 ## 📷 Preview
-![AI Job Market Dashboard](./59e4578a-173e-4440-9eb9-a1cd3ae7c3e7.png)
+![AI Job Market Dashboard](./tableau_ai_job_market_insights.png)
 
 ---
 
